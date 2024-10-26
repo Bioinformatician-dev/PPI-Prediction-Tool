@@ -21,3 +21,7 @@ ppi_prediction_tool/
 ```bash
   pip install Flask numpy pandas scikit-learn biopython
 ```
+* Step 1: Set Up the Flask Application
+  ```bash
+      app.py
+  ```
