@@ -17,3 +17,7 @@ ppi_prediction_tool/
 │   └── results.html
 └── requirements.txt
 ```
+## Installation
+```bash
+  pip install Flask numpy pandas scikit-learn biopython
+```
