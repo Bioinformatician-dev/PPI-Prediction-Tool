@@ -23,13 +23,13 @@ ppi_prediction_tool/
 ```
 ## Step
 * Step 1: Set Up the Flask Application
-  ```bash
-      app.py
-  ```
+ 
 * Step 2: Machine learning model
-  ```bash
+
+   ```bash
     model.py
  ```
+
 * Step 3: HTML Template
 
 ```bash
