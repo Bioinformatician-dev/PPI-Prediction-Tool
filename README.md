@@ -34,8 +34,9 @@ ppi_prediction_tool/
 
 
 * Step 4: Requirements File
-  ```bash
-      pip install -r requirements.txt
+
+ ```bash
+    pip install -r requirements.txt
   ```
  * Step 5: Run the Flask app:
 
