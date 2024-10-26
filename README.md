@@ -31,10 +31,11 @@ ppi_prediction_tool/
     model.py
  ```
 * Step 3: HTML Template
+
 ```bash
       templates/index.html
       templates/results.html
-  ```
+ ```
 
 
 * Step 4: Requirements File
