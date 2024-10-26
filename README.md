@@ -7,6 +7,7 @@ Implement a tool that predicts potential protein-protein interactions based on u
 
 
 ## Project Structure
+```bash
 ppi_prediction_tool/
 │
 ├── app.py
@@ -15,3 +16,4 @@ ppi_prediction_tool/
 │   ├── index.html
 │   └── results.html
 └── requirements.txt
+```
