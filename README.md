@@ -22,26 +22,16 @@ ppi_prediction_tool/
   pip install Flask numpy pandas scikit-learn biopython
 ```
 ## Step
-* Step 1: Set Up the Flask Application
+*  Step 1: Set Up the Flask Application
  
-* Step 2: Machine learning model
+*  Step 2: Machine learning model
 
-   ```bash
-    model.py
- ```
-* Step 3:Html template
-
+    ```bash
+        model.py
+    ```
 
 
-
-
-
-* Step 4: Requirements File
-
-```bash
-     pip install -r requirements.txt
- ```
- * Step 5: Run the Flask app:
+ *  Step 3: Run the Flask app:
 
  ```bash
      python app.py 
