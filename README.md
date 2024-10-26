@@ -26,7 +26,7 @@ ppi_prediction_tool/
   ```bash
       app.py
   ```
-  * Step 2: Machine learning model
+*Step 2: Machine learning model
   ```bash
     model.py
  ```
@@ -34,6 +34,7 @@ ppi_prediction_tool/
 
 
 * Step 4: Requirements File
+
 ```bash
     pip install -r requirements.txt
  ```
