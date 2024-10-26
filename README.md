@@ -31,7 +31,7 @@ ppi_prediction_tool/
     model.py
  ```
 * Step 3: Create HTML Templates
-```bash
+ ```bash
       templates/index.html
       templates/results.html
   ```
