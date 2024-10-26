@@ -29,16 +29,13 @@ ppi_prediction_tool/
    ```bash
     model.py
  ```
-
 * Step 3: HTML Template
-
 
 * Step 4: Requirements File
 
 ```bash
     pip install -r requirements.txt
  ```
-
  * Step 5: Run the Flask app:
 
  ```bash
