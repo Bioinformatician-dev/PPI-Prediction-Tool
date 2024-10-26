@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Results</title>
+</head>
+<body>
+    <h1>Prediction Results</h1>
+    <table border="1">
+        <tr>
+            <th>Protein Sequence</th>
+            <th>Prediction</th>
+            <th>Confidence Score</th>
+        </tr>
+        {% for prediction in predictions %}
+        <tr>
+            <td>{{ prediction[0] }}</td>
+            <td>{{ prediction[1] }}</td>
+            <td>{{ prediction[2]:.2f }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    <a href="/">Go Back</a>
+</body>
+</html>
