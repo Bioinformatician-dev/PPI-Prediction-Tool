@@ -32,9 +32,9 @@ ppi_prediction_tool/
  ```
 * Step 3: Create HTML Templates
 
- ```bash
-       templates/index.html
-       templates/results.html
+```bash
+ templates/index.html
+ templates/results.html
  ```
 * Step 4: Requirements File
   ```bash
